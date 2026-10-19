@@ -1,4 +1,4 @@
-# Session 18: Terraform and Infrastructure as Code
+# Session 18: Terraform & Infrastructure as Code
 
 This folder contains the Session 18 work:
 

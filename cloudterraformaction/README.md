@@ -1,4 +1,4 @@
-# Session 19: Cloud and Terraform in Action
+# Session 19: Cloud and Terraform
 
 This project demonstrates how Terraform can be used to define, provision,
 inspect, and destroy AWS infrastructure. The architecture follows the

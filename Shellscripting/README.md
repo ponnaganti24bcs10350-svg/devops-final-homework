@@ -1,4 +1,4 @@
-# Shell Scripting Homework Task
+# Shell Scripting Task
 
 ## System Information Script
 

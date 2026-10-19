@@ -1,4 +1,4 @@
-# Docker Homework
+# Docker Fundamentals Homework
 
 ## Task: Hello World Applications
 
